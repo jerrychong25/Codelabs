@@ -1,6 +1,6 @@
 # Issue 1 (Week 1 of February 2022)
 
-Recording of valuable news, articles, research papers, tools, websites and etc that I've read and learnt on past one week.
+Recording of cool and interesting news, articles, research papers, tools, websites and etc that I've read and learnt on past one week.
 
 ## Articles
 
