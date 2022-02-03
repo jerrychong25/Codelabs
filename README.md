@@ -1,6 +1,6 @@
 # Weekly
 
-Sharing of valuable articles, research papers, tools and websites that I've read and learnt on weekly basis, and update here during my free time.  
+Sharing of valuable news, articles, research papers, tools, websites and etc that I've read and learnt on weekly basis, and update here during my free time.
 
 ## 2022
 
