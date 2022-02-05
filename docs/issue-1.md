@@ -5,6 +5,7 @@ Recording of cool and interesting news, articles, research papers, tools, websit
 ## Articles
 
 1. [Inside the ‘Wikipedia of Maps,’ Tensions Grow Over Corporate Influence](https://www.bloomberg.com/news/articles/2021-02-19/openstreetmap-charts-a-controversial-new-direction) By Corey Dickinson
+2. [What is an Isochrone Map? A Definition & Examples](https://traveltime.com/blog/what-is-an-isochrone) By Louisa Bainbridge
 
 （The End）
 
