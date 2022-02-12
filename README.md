@@ -1,6 +1,6 @@
 # Weekly
 
-Sharing of cool and interesting news, articles, research papers, tools, websites and etc that I've read and learnt on weekly basis, and update here during my free time.
+Sharing of cool and interesting tech news, articles, tools, websites and etc that I've read and learnt on weekly basis.
 
 ## 2022
 
