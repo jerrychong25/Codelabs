@@ -9,3 +9,4 @@ Sharing of cool and interesting tech news, articles, tools, websites and etc tha
 **February**
 - [Issue 1 - Week 1 of February 2022](docs/issue-1.md)
 - [Issue 2 - Week 2 of February 2022](docs/issue-2.md)
+- [Issue 3 - Week 4 of February 2022](docs/issue-3.md)
