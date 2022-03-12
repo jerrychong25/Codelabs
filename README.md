@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjerrychong25%2Fweekly&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-Sharing of cool and interesting tech news, articles, tools, websites and etc that I've read and learnt on weekly basis.
+Sharing of cool and interesting news, articles, tools, websites and etc that I've read and learnt on weekly basis.
 
 ## 2022
 
