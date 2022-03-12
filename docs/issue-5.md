@@ -8,6 +8,7 @@ Recording of cool and interesting news, articles, research papers, tools, websit
 2. [Big Data: The Management Revolution](https://hbr.org/2012/10/big-data-the-management-revolution) By Andrew McAfee and Erik Brynjolfsson
 3. [Why So Many Data Science Projects Fail to Deliver](https://sloanreview.mit.edu/article/why-so-many-data-science-projects-fail-to-deliver/) By Mayur P. Joshi, Ning Su, Robert D. Austin, and Anand K. Sundaram
 4. [The Chinese century is well under way](https://www.economist.com/graphic-detail/2018/10/27/the-chinese-century-is-well-under-way) By The Economist
+5. [AWS Tags Best Practices and AWS Tagging Strategies](https://www.cloudforecast.io/blog/aws-tagging-best-practices/) By Karl Hughes
 
 （The End）
 
