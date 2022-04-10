@@ -16,3 +16,6 @@ Sharing of cool and interesting news, articles, tools, websites and etc that I'v
 - [Issue 5 - Week 2 of March 2022](docs/issue-5.md)
 - [Issue 6 - Week 3 of March 2022](docs/issue-6.md)
 - [Issue 7 - Week 4 of March 2022](docs/issue-7.md)
+
+**April**
+- [Issue 8 - Week 1 of April 2022](docs/issue-8.md)
