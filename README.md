@@ -19,3 +19,4 @@ Sharing of cool and interesting news, articles, tools, websites and etc that I'v
 
 **April**
 - [Issue 8 - Week 1 of April 2022](docs/issue-8.md)
+- [Issue 9 - Week 3 of April 2022](docs/issue-9.md)
